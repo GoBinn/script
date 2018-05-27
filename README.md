@@ -1,3 +1,1 @@
-# smart boy
-
-you must be a kidding.
+自动化分析流程  NGS-pipeline.pl
